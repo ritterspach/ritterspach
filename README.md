@@ -1,9 +1,8 @@
-# Hi, I'm Jannis Ritterspach 👋
+# Hi, I'm Jannis 👋
 
 **About Me**
 
 Tech-enthusiastic innovator at the intersection of marketing, AI, and entrepreneurship. I drive digital transformation with strategic thinking and practical expertise, translating complex technologies into tangible business solutions.
-Focus Areas
 
 - 🚀 Innovation & Digital Transformation
 - 🤖 AI Strategy & Implementation
